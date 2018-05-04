@@ -8,4 +8,4 @@
 
 ## Issues
 
-I was unable to get all the images to display. Not entirely sure why. I tried downloading and reducing the size and dimensions of the images in question. then reuploaded to imgur.com and replaced the links in the string.xml. That did not do the trick, unfortunately.
+I did have a problem getting every one of the images to load, to the point where I reduced the size and dimensions of the originals then reuploaded to imgur, but after a restart they are now loading just fine in the emulator.
